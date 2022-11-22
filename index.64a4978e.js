@@ -671,7 +671,7 @@ const options = {
     speed_y: 2000
 };
 // gui.add(options, 'speed_x', 100, 100000);
-gui.add(options, "speed_y", 100, 5000);
+// gui.add(options, 'speed_y', 100, 5000);
 renderer.setClearColor(0xf8e914);
 // var cubeTextureLoader = new THREE.CubeTextureLoader();
 // scene.background = cubeTextureLoader.load([

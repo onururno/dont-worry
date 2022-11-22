@@ -35,4 +35,11 @@ canvas {
   transform: translateX(-50%);
 }
 
+@media (max-width: 600px) {
+  .overlay img {
+    max-width: 200px;
+    top: 10px;
+  }
+}
+
 /*# sourceMappingURL=index.c92073ef.css.map */
